@@ -1,0 +1,15 @@
+gender,math score,reading score,writing score,placement score,club join year,placement offer count,Region
+Female,73,74,80,84,2022,2,nashik
+Male,68,72,79,83,2018,2,nashik
+Female,69,84,68,NaN,2018,2,NaN
+Female,90,60,66,82,2022,2,Pune
+Male,63,81,83,74,2022,1,Pune
+Male,82,67,94,76,2022,2,Pune
+Male,71,66,NaN,74,2021,1,NaN
+Female,78,85,60,81,2020,2,nashik
+Female,81,76,76,74,2019,1,nashik
+Female,62,61,76,67,2020,1,Pune
+Male,NaN,76,68,94,2021,3,NaN
+Female,68,72,83,69,2021,1,Pune
+Male,70,78,82,70,2022,1,Pune
+Female,82,61,66,85,2019,3,nashik
